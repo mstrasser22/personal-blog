@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Maria Strasser - Software Development Blog</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Maria Strasser - Software Development Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Mon, 01 Jun 2020 18:54:21 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOps</title>
+      <link>http://example.org/tags/devops/</link>
+      <pubDate>Mon, 01 Jun 2020 18:54:21 +0200</pubDate>
+      
+      <guid>http://example.org/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps</title>
+      <link>http://example.org/tags/devsecops/</link>
+      <pubDate>Mon, 01 Jun 2020 18:54:21 +0200</pubDate>
+      
+      <guid>http://example.org/tags/devsecops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
