@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://personalblogst.z22.web.core.windows.net/"
 languageCode = "de-at"
 title = "Maria Strasser - Software Development Blog"
 theme="liva-hugo"
