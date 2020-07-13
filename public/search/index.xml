@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on Maria Strasser - Software Development Blog</title>
-    <link>https://personalblogst.z22.web.core.windows.net/search/</link>
+    <link>https://personalblogst.z6.web.core.windows.net/search/</link>
     <description>Recent content in Search Result on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <lastBuildDate>Sun, 31 May 2020 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="https://personalblogst.z22.web.core.windows.net/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://personalblogst.z6.web.core.windows.net/search/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -8,12 +8,13 @@
           {{ .Site.Params.newsletter.content | markdownify }}</p>
         <form action="#" class="row justify-content-center">
           <div class="input-group col-md-8">
-            <input type="text" class="form-control" placeholder="E-Mail Adresse">
+            <input id="newsletterEmail" type="text" class="form-control" placeholder="E-Mail Adresse">
             <div class="input-group-append">
-              <button class="input-group-text btn btn-primary">Anmelden</button>
+              <button id="newsletter" class="input-group-text btn btn-primary">Anmelden</button>
             </div>
           </div>
         </form>
+		<div  class="text-light px-md-5 py-4 border-left border-right border-primary" id="newsletterSubscripted" hidden>Vielen Dank für die Anmeldung!</div>
       </div>
     </div>
   </div>

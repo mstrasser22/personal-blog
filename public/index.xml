@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Strasser - Software Development Blog</title>
-    <link>https://personalblogst.z22.web.core.windows.net/</link>
+    <link>https://personalblogst.z6.web.core.windows.net/</link>
     <description>Recent content on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Mon, 01 Jun 2020 18:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 18:54:21 +0200</lastBuildDate>
     
-	<atom:link href="https://personalblogst.z22.web.core.windows.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://personalblogst.z6.web.core.windows.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Devops - Wer hat noch nicht, wer will nochmal</title>
-      <link>https://personalblogst.z22.web.core.windows.net/blog/devops-wer-hat-noch-nicht/</link>
-      <pubDate>Mon, 01 Jun 2020 18:54:21 +0200</pubDate>
+      <link>https://personalblogst.z6.web.core.windows.net/blog/devops-wer-hat-noch-nicht/</link>
+      <pubDate>Sun, 05 Jul 2020 18:54:21 +0200</pubDate>
       
-      <guid>https://personalblogst.z22.web.core.windows.net/blog/devops-wer-hat-noch-nicht/</guid>
-      <description>DevOps - Wer hat noch nicht, wer will nochmal? </description>
+      <guid>https://personalblogst.z6.web.core.windows.net/blog/devops-wer-hat-noch-nicht/</guid>
+      <description>DevOps - Wer hat noch nicht, wer will nochmal? Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun DevOps!</description>
     </item>
     
   </channel>

@@ -32,5 +32,26 @@
 
     // venobox initialize
     $('.venobox').venobox();
+	
+	// newsletter
+	$('#newsletter').on('click', function() {
+		const emaildata = $('#newsletterEmail').val();
+		const url = 'https://newsletterfuncapp.azurewebsites.net/api/AddNewsletterEmail?code=OQR48lOOdv2qb7jJqOK1AVP6DwXzoqpeAn7gX32FYEIwq4bj05IPQA==';
+		//$.post(url, { email: emaildata });
+		
+		//$('#newsletterSubscripted').removeAttr('hidden');
+		$.ajax(url, {
+			data: JSON.stringify({email: $('#newsletterEmail').val() }),
+			type: "POST",
+			contentType: "application/json; charset=UTF-8"
+		});
+   
+		//$.post(url,   // url
+			//{ email: emaildata }, // data to be submit
+			   //function(data, status, xhr) {   // success callback function
+                //alert('status: ' + status + ', data: ' + data.responseData);
+            //},
+       //'json'); // response data format
+      })
 
   })(jQuery);
