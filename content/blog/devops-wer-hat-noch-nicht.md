@@ -24,7 +24,7 @@ type: "featured"
 
 Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun *DevOps*! 
 Passt super zum neuen Projekt und alle anderen machen es doch auch schon, da will man nicht hinten anstehen. 
-Außerdem hat die Erfahrung aus den Monaten zuvor gezeigt, dass wenn die Software stabil und sicher laufen soll, Entwicklung („DEVeleopment“) und Betrieb („OPerationS“) enger zusammenrücken 
+Außerdem hat die Erfahrung aus den Monaten zuvor gezeigt, dass wenn die Software stabil und sicher laufen soll, Entwicklung („DEVelopment“) und Betrieb („OPerationS“) enger zusammenrücken 
 und sich gut absprechen müssen. Ein Blick in die Runde wirft jedoch Fragen auf… es sitzen nur SoftwareentwicklerInnen im Raum. 
 Wo sind denn diese OPS, mit denen man enger zusammenrücken will? 
 Eine noch viel wichtigere Frage: WIE macht man denn *DevOps* eigentlich?
@@ -63,7 +63,7 @@ Geben wir nun die Zielplattform vor? Wo ist denn die Grenze zwischen dem, was wi
 Welche Security-Maßnahmen treffen wir, welche der Betrieb? Welche technischen Möglichkeiten haben wir denn überhaupt beim derzeitigen Betriebsmodell? 
 Fragen über Fragen quälen den Kopf und letztendlich hilft nur eins: alle an einen Tisch. 
 Entwicklung sowie Betrieb, um gemeinsam Rahmenbedingungen und Verantwortlichkeiten abzuklären und so die optimale Lösung zu finden. 
-Das ganze natürlich auch noch zu einem frühen Entwicklungszeitpunkt.
+Das Ganze natürlich auch noch zu einem frühen Entwicklungszeitpunkt.
 
 So ist die Erfahrung. 
 
@@ -90,19 +90,19 @@ Was verbirgt sich nun genau hinter *DevOps*?
 
 Durch *DevOps* findet Agilität, die im Entwicklungsbereich bereits eine große Verbreitung hat, auch im Betrieb ihren Platz und ihre Umsetzung. 
 Es bringt wenig, wenn die Entwicklung in kurzen Feedbackschleifen und Iterationsintervallen dem Kunden neue Versionen zur Verfügung stellt, wenn diese nicht in Betrieb genommen werden. Hier entsteht aber durchaus ein Zielkonflikt. Immerhin ist es der Job und die Verantwortung des Betriebs, für Stabilität zu sorgen. 
-Jedes Update einer Software gefährdet diese gewünschte Stabilität potenziell. Folglich ist es aus Sicht des Betriebs weitaus angenehmer, wenn Software-Updates so selten wie möglich durchgeführt werden. Das führt zu großen Release-Paketen, die lange geplant und aufwändig durchgeführt werden. Da bei solch großen Releases auch mehr Fehler mitausgeliefert werden, darf man auch die Zeit der Nacharbeiten nicht unterschätzen.
+Jedes Update einer Software gefährdet diese gewünschte Stabilität potenziell. Folglich ist es aus Sicht des Betriebs weitaus angenehmer, wenn Software-Updates so selten wie möglich durchgeführt werden. Das führt zu großen Release-Paketen, die lange geplant und aufwändig durchgeführt werden. Da bei solch großen Releases auch mehr Fehler mitausgeliefert werden, darf man die Zeit der Nacharbeiten nicht unterschätzen.
 
 
 Wie also soll nun Agilität in den Betrieb finden? 
 Auf die gleiche Weise, wie es auch in der Entwicklung der Fall ist: kurze Iterationen, um regelmäßig Feedback und kontinuierliche Verbesserung zu ermöglichen. Das heißt für die Software, dass diese nicht nur ständig weiterentwickelt, sondern auch ständig in Betrieb genommen wird. 
-Nun fragen erfahrene Betriebs-MitarbeiterInnen hoffentlich „Wie sollen wir es schaffen, so oft neue Versionen zu deployen? Wisst ihr wie aufwändig so ein Update ist?“. 
+Nun fragen erfahrene BetriebsmitarbeiterInnen hoffentlich „Wie sollen wir es schaffen, so oft neue Versionen zu deployen? Wisst ihr wie aufwändig so ein Update ist?“. 
 Und genau hier setzt *DevOps* an. 
 Um das Ziel einer sich ständig weiterentwickelnden, aber stabilen Software zu erreichen, müssen Entwicklung und Betrieb an einen Tisch und gemeinsam an einem Strang ziehen. Gedankliche Grenzen und Mauern werden eingerissen, um eines zu erreichen: volle und gemeinsame Verantwortung für die Software!
 Der Grundsatz lautet **„You build it, you run it!“**.
 
 
 Die Softwareentwicklung endet nicht mehr beim Ausliefern der Software mit Betriebsanleitung, sondern dann, wenn die entwickelte Software erfolgreich in Produktion läuft. Produktionsprobleme sind damit nicht mehr alleinige Sache der Betriebs-MitarbeiterInnen, sondern für die Softwareentwickler soll transparent sein, wie es der Software gerade geht und was aus dem laufenden Betrieb gelernt werden kann. Das heißt umgekehrt, damit der Betrieb reibungslos und optimiert funktionieren kann, muss bereits bei der Konzeption der Software der Betrieb mitgedacht werden. Der erste Kontakt zum Betrieb findet nicht mehr erst dann statt, wenn die Software fertig ist, sondern bereits bei den ersten Architektur- und Release-Konzepten. Entwicklung und Betrieb entwerfen gemeinsam eine Lösung für schnelle, regelmäßige und stabile Rollouts. 
-Damit diese Optimierung stattfinden kann, ist eines der Kernelemente die Automatisierung. Werkzeuge und Prozesse für Continuous Integration, Continuous Testing und Continous Deployment spielen eine entscheidende Rolle, um *DevOps* zu kultivieren. Ohne diesen Werkzeugeinsatz und passende Technologien wird die regelmäßige Bereitstellung nur schwer umsetzbar.
+Damit diese Optimierung stattfinden kann, ist eines der Kernelemente die Automatisierung. Werkzeuge und Prozesse für Continuous Integration, Continuous Testing und Continuous Deployment spielen eine entscheidende Rolle, um *DevOps* zu kultivieren. Ohne diesen Werkzeugeinsatz und passende Technologien wird die regelmäßige Bereitstellung nur schwer umsetzbar.
 
 
 Dieser Werkzeugeinsatz ist ein wesentlicher Erfolgsfaktor, reicht aber allein nicht aus. *DevOps* ist eine **Grundausrichtung, eine Denkweise und Übereinkunft, die letztendlich durch Werkzeugeinsatz gelebt werden kann**. *DevOps* ist ein weiterer Baustein einer Kultur, die gemeinsame Ziele und Werte in den Vordergrund stellt. 
@@ -126,7 +126,7 @@ Aus diesem Grund habe ich ebenso große Erwartungen, was die Zukunft mit *DevOps
 
 ## Fazit
 Um zur anfänglichen Frage zurückzukehren: *DevOps* – Wer hat noch nicht, wer will nochmal?
-Wer noch nicht hat und auf dem IT-Markt auch in Zukunft Erfolg haben möchte, sollte sich mit dem Thema *DevOps* definitiv auseinandersetzen. Um Software mit hoher Produktivität, Stabilität und Qualität zu entwickeln und zu betreiben, bedarf es nicht nur der Auswahl neuer Werkzeuge, sondern der wesentliche Erfolgsfaktor sind der Kulturwandel und die Denkweise, die mit *DevOps* einhergehen. Agilität als gesamtheitliche Grundausrichtung, von der Anforderung bis zum Betrieb, wird damit gelebte Praxis. Ein Umstieg hört sich vielleicht erstmal anstrengend an, man sollte sich aber nicht zu Tode fürchten. Jede Veränderung beginnt mit dem ersten Schritt. Wie diese ersten Schritte konkret aussehen können, beschreibe ich im Folgeartikel.
+Wer noch nicht hat und auf dem IT-Markt auch in Zukunft Erfolg haben möchte, sollte sich mit dem Thema *DevOps* definitiv auseinandersetzen. Um Software mit hoher Produktivität, Stabilität und Qualität zu entwickeln und zu betreiben, bedarf es nicht nur der Auswahl neuer Werkzeuge, sondern der wesentliche Erfolgsfaktor sind der Kulturwandel und die Denkweise, die mit *DevOps* einhergehen. Agilität als gesamtheitliche Grundausrichtung, von der Anforderung bis zum Betrieb, wird damit gelebte Praxis. Ein Umstieg hört sich vielleicht erstmal anstrengend an, man sollte sich aber nicht zu Tode fürchten. Jede Veränderung beginnt mit dem ersten Schritt. Wie diese ersten Schritte konkret aussehen können, beschreibe ich in einem Folgeartikel.
 
 
 

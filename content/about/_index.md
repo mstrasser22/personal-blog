@@ -16,10 +16,10 @@ type : "about"
 Mein Name ist Maria Strasser, Msc Bsc.
 Nachdem ich eher zufällig in der IT gelandet bin, begann ich nach Abschluss der HTBLA Perg meine Praxiserfahrung im Bereich der Softwareentwicklung und absolvierte berufsbegleitend das Bachelor-Studium *Software Engineering* sowie den Master-Studiengang *Information Engineering und Management* an der FH Hagenberg.
 
-Nach mehreren Jahren .NET Desktop-Entwicklung beschäftige ich mich nun vorrangig mit der Web-Entwicklung im .NET-Umfeld.
-Mein derzeitiger Arbeitsalltag ist geprägt von der Modernisierung der Softwareentwicklung mittels Microservice-Architekturen, Cloud Computing und der Etablierung von DevSecOps-Praktiken. 
+Nach mehreren Jahren .NET Desktop-Entwicklung bin ich nun vorrangig im Bereich der Webentwicklung im .NET-Umfeld tätig.
+In meinem Arbeitsalltag beschäftige ich mich mit Themen rund um Softwarearchitektur, Softwareentwicklungsprozessen, Cloud Computing und der Etablierung von DevSecOps-Praktiken. 
 Ich bin Mutter von zwei Kindern und verbringe meine Zeit gerne mit meiner Familie im Garten.
-Um die vielen technischen, organisatorischen und zwischenmenschlichen Eindrücke und Erfahrungen meiner Tätigkeit zu verarbeiten und zu ordnen, schreibe ich sie nieder.
+Um die vielen Eindrücke und Erfahrungen meiner Tätigkeit zu verarbeiten und zu ordnen, schreibe ich sie nieder.
 Das teile ich gerne hier auf meinem Blog.
 
 Die Artikel geben meine Sicht der Dinge wieder. Um den Blickwinkel und mein Wissen zu erweitern bin ich gerne offen für konstruktive Diskussionen, kritische Betrachtungen sowie Korrekturen. [Kontaktiere mich](/contact)
