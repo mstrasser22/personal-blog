@@ -36,16 +36,16 @@ Warum wir in unserem Team *DevOps* leben wollen, hat letztendlich einen Grund un
 
 Ich persönlich habe mich in der Vergangenheit um den Betrieb von Software genau gar nicht gekümmert und hätte nicht im Leben daran gedacht, dass sich das für mich irgendwann ändern würde. 
 Jahrelang habe ich an einer großen Desktop-Anwendung mitentwickelt. 
-Zum Release-Zeitpunkt haben wir halbwegs automatisiert das Softwarepaket geschnürt, einen Installer gab’s auch noch im Paket dazu und das bekamen die Kunden, 
-die gleichzeitig Betreiber der Software waren. Das war’s, nächster Sprint, nächste Funktionalität. 
+Zum Release-Zeitpunkt haben wir halbwegs automatisiert das Softwarepaket geschnürt, einen Installer gab’s auch noch im Paket dazu und das bekamen die Kundenfirmen, 
+die gleichzeitig die Software für die EndkundInnen betrieben. Das war’s, nächster Sprint, nächste Funktionalität. 
 Nur selten habe ich mir als Entwicklerin Gedanken dazu gemacht, wie es unserer Software im Betrieb wohl geht. 
 Um das hat sich jemand anderes gekümmert und es lebte sich ganz gut - außer bei Betriebsproblemen…
   
-Ist die Ursache des Problems nicht ganaz klar, wird's unangenehm. 
+Ist die Ursache des Problems nicht ganz klar, wird's unangenehm. 
 Haben die EntwicklerInnen bei der Umsetzung einen Fehler eingebaut? Wurde die Betriebsumgebung von den AdministratorInnen falsch konfiguriert? 
 Passen die Konfigurationen und Softwareversionen der Betriebsumgebung mit der ausgelieferten Software zusammen? Wo liegt die Ursache und wer ist verantwortlich? 
 Der Ball könnte endlos zwischen Entwicklung und Betrieb hin- und hergespielt werden. 
-Was zu einer großen Wahrscheinlichkeit auch noch zutrifft: Auf dem Entwickler-PC oder dem Testserver tritt das Problem nicht auf!
+Was zu einer großen Wahrscheinlichkeit auch noch zutrifft: Auf dem Entwicklungs-PC oder dem Testserver tritt das Problem nicht auf!
 
 
 Als Entwicklerin kann ich von der Ferne und ohne nähere Kenntnisse des Betriebs in solchen Fällen nur sehr eingeschränkt helfen. 
@@ -53,13 +53,13 @@ Dann ist es ein bisschen so, wie wenn das eigene Kind das erste Mal alleine den 
 man kann zurufen, ermutigen und Gebete sprechen, aber letztendlich kann man nicht mehr viel tun und muss seinen Sprössling dem Schicksal überlassen.
 Zum Glück waren diese betriebsabhängigen Softwareprobleme, mit denen ich zu tun hatte, eher Ausnahmefälle. 
 
-Dann kommt ein neues Projekt, ein Webprojekt, das sehr geprägt von der Infrastruktur der Kunden und Endkunden ist. 
+Dann kommt ein neues Projekt, ein Webprojekt, das sehr geprägt von der Infrastruktur der KundInnen und EndkundInnen ist. 
 Nicht nur ist das Web nun ein völlig neues Feld, plötzlich ist es nicht mehr so einfach Softwareentwicklung und den Betrieb zu trennen. 
 Schon zum Entwicklungszeitpunkt muss man sich so viele Gedanken über den Betrieb machen und Entscheidungen treffen. 
 Als SoftwareentwicklerIn kann man aber doch keine Entscheidungen über den Betrieb treffen, oder doch? 
-Immerhin will man der Betreiber-Firma, die sich viel besser auskennt auf dem Gebiet, nicht vorschreiben, wie die Software zu betreiben ist, oder doch? 
-Wird das vielleicht sogar erwartet? Ist es nicht auch Aufgabe des Softwareherstellers, die Software für die vorgegebene Zielplattform zu optimieren? 
-Geben wir nun die Zielplattform vor? Wo ist denn die Grenze zwischen dem, was wir als Softwarehersteller an Vorgaben machen und dem, was der Betrieb entscheiden will und muss? 
+Immerhin will man der Firma, die die Software betreibt und sich viel besser auskennt auf dem Gebiet, nicht vorschreiben, wie die Software zu betreiben ist, oder doch? 
+Wird das vielleicht sogar erwartet? Ist es nicht auch Aufgabe der Softwareentwicklungsfirma, die Software für die vorgegebene Zielplattform zu optimieren? 
+Geben wir nun die Zielplattform vor? Wo ist denn die Grenze zwischen dem, was wir als SoftwareherstellerInnen an Vorgaben machen und dem, was der Betrieb entscheiden will und muss? 
 Welche Security-Maßnahmen treffen wir, welche der Betrieb? Welche technischen Möglichkeiten haben wir denn überhaupt beim derzeitigen Betriebsmodell? 
 Fragen über Fragen quälen den Kopf und letztendlich hilft nur eins: alle an einen Tisch. 
 Entwicklung sowie Betrieb, um gemeinsam Rahmenbedingungen und Verantwortlichkeiten abzuklären und so die optimale Lösung zu finden. 
@@ -75,7 +75,7 @@ Wie wird das heutzutage genannt? – „DevOps“.
 Die inhaltliche und organisatorische Trennung zwischen Entwicklung und Betrieb war und ist Alltag in vielen Firmen. 
 Wenn die Verantwortlichkeiten klar sind und praktikabel gelebt werden können, ist das auch eine gute Sache und der Vorteil liegt klar auf der Hand: Jede Organisation kann sich auf seine Kernkompetenzen konzentrieren. 
 Genug Betriebe haben aber auch negative Erfahrungen gemacht. Grabenkämpfe zwischen Entwicklung und Betrieb sind keine Seltenheit und in Problemfällen kommt es schnell dazu, einen Schuldigen zu suchen. Der Betrieb ist unzufrieden mit der Software und der raren Installations- und Betriebsanleitung. Bei Problemen im laufenden Betrieb haben schnell mal die SoftwareentwicklerInnen schlampig gearbeitet und dass die EntwicklerInnen über die AdministratorInnen meckern, ist auch ganz klar. Diese betreiben die Software wieder ganz anders als die EntwicklerInnen das auf dem Testserver gemacht haben. 
-Wenn dadurch die Probleme schwer zu finden sind und der Ball ständig zwischen Entwicklung und Betrieb hin- und her gespielt wird, gibt es letztendlich einen großen Verlierer: die Software und damit die Endkunden.
+Wenn dadurch die Probleme schwer zu finden sind und der Ball ständig zwischen Entwicklung und Betrieb hin- und her gespielt wird, gibt es letztendlich einen großen Verlierer: die Software und damit die EndkundInnen.
 
 
 In Zeiten der Optimierung, Qualitäts- sowie Produktivitätssteigerung hat so etwas keinen Platz. Die Erkenntnis, dass jene, die den Code schreiben und jene, die den Code betreiben und Support leisten, intensiver zusammenarbeiten müssen, bekam bereits vor 10 Jahren mit *DevOps* einen Namen. Indem der Urvater der *DevOps*-Bewegung Patrick Dubois[^1] diesen Begriff prägte und es mit dem Start diverser DevOps-Konferenzen seit 2009 auch eine Bühne dafür gibt, wird der Scheinwerfer auf diese vor allem zwischenmenschlich geprägte Thematik geworfen.
@@ -89,7 +89,7 @@ Es ist klar erkennbar, dass es sich nicht um einen momentanen Hype handelt, der 
 Was verbirgt sich nun genau hinter *DevOps*?
 
 Durch *DevOps* findet Agilität, die im Entwicklungsbereich bereits eine große Verbreitung hat, auch im Betrieb ihren Platz und ihre Umsetzung. 
-Es bringt wenig, wenn die Entwicklung in kurzen Feedbackschleifen und Iterationsintervallen dem Kunden neue Versionen zur Verfügung stellt, wenn diese nicht in Betrieb genommen werden. Hier entsteht aber durchaus ein Zielkonflikt. Immerhin ist es der Job und die Verantwortung des Betriebs, für Stabilität zu sorgen. 
+Es bringt wenig, wenn die Entwicklung in kurzen Feedbackschleifen und Iterationsintervallen neue Versionen zur Verfügung stellt, wenn diese nicht in Betrieb genommen werden. Hier entsteht aber durchaus ein Zielkonflikt. Immerhin ist es der Job und die Verantwortung des Betriebs, für Stabilität zu sorgen. 
 Jedes Update einer Software gefährdet diese gewünschte Stabilität potenziell. Folglich ist es aus Sicht des Betriebs weitaus angenehmer, wenn Software-Updates so selten wie möglich durchgeführt werden. Das führt zu großen Release-Paketen, die lange geplant und aufwändig durchgeführt werden. Da bei solch großen Releases auch mehr Fehler mitausgeliefert werden, darf man die Zeit der Nacharbeiten nicht unterschätzen.
 
 
@@ -111,17 +111,17 @@ Dieser Werkzeugeinsatz ist ein wesentlicher Erfolgsfaktor, reicht aber allein ni
 
 Als Softwareentwicklerin frage ich mich natürlich ab und zu, ob es denn nicht einfacher wäre, so weiterzumachen wie bisher. 
 Mitverantwortung für den reibungslosen Betrieb heißt eben auch mehr Verantwortung zu übernehmen und noch mehr mitzudenken. 
-Betrachte ich die Situation aber aus einer gesamtheitlichen Sicht, so sehe ich für alle Beteiligten, vom Unternehmen, den EntwicklerInnen und BetriebsmitarbeiterInnen bis hin zu den Endkunden die Vorteile - und die sprechen meiner Meinung nach eindeutig FÜR *DevOps*.
+Betrachte ich die Situation aber aus einer gesamtheitlichen Sicht, so sehe ich für alle Beteiligten, vom Unternehmen, den EntwicklerInnen und BetriebsmitarbeiterInnen bis hin zu den EndkundInnen die Vorteile - und die sprechen meiner Meinung nach eindeutig FÜR *DevOps*.
 
 
 Viele Firmen können schon von den Verbesserungen mit *DevOps* berichten. In einer groß angelegten Studie wird detailliert analysiert, wie die Bereitstellung der Software zum Unternehmenserfolg beiträgt und welche Schlüsselkompetenzen diesen leistungsstarken Unternehmen zugrunde liegen[^3]. 
 Aus diesem Grund habe ich ebenso große Erwartungen, was die Zukunft mit *DevOps* anbelangt:
 -	Erhöhte Qualität und Stabilität der Software
--	Kurzes Rollout. Features und Fehlerbehebungen können dem Kunden schneller zur Verfügung gestellt werden.
--	Erhöhte Kundenzufriedenheit aufgrund der Stabilität der Software sowie verkürzte Time-to-Market
+-	Kurzes Rollout - Features und Fehlerbehebungen können den KundInnen schneller zur Verfügung gestellt werden und damit Erlöse erziehlen
+-	Erhöhte Kundenzufriedenheit aufgrund der Stabilität der Software 
 -	Verbessertes Monitoring für Entwicklung und Betrieb
--	Kostenoptimierung durch bessere Stabilität, Produktivität und kürzere Time-to-Market
--	Erhöhte Mitarbeiterzufriedenheit durch Transparenz in der Zusammenarbeit und durch gemeinsame Verantwortung, Ziele und Vertrauen
+-	Kostenoptimierung durch bessere Stabilität, Produktivität und kürzerer Produkteinführungszeit
+-	Erhöhte MitarbeiterInnenzufriedenheit durch Transparenz in der Zusammenarbeit und durch gemeinsame Verantwortung, Ziele und Vertrauen
 
 
 ## Fazit

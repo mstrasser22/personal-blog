@@ -13,8 +13,8 @@ description: "Über mich"
 type : "about"
 ---
 
-Mein Name ist Maria Strasser, Msc Bsc.
-Nachdem ich eher zufällig in der IT gelandet bin, begann ich nach Abschluss der HTBLA Perg meine Praxiserfahrung im Bereich der Softwareentwicklung und absolvierte berufsbegleitend das Bachelor-Studium *Software Engineering* sowie den Master-Studiengang *Information Engineering und Management* an der FH Hagenberg.
+Mein Name ist Maria Strasser.
+Ich begann meine Praxiserfahrung im Bereich der Softwareentwicklung nach Abschluss der HTBLA Perg und absolvierte berufsbegleitend das Bachelor-Studium *Software Engineering* sowie den Master-Studiengang *Information Engineering und Management* an der FH Hagenberg.
 
 Nach mehreren Jahren .NET Desktop-Entwicklung bin ich nun vorrangig im Bereich der Webentwicklung im .NET-Umfeld tätig.
 In meinem Arbeitsalltag beschäftige ich mich mit Themen rund um Softwarearchitektur, Softwareentwicklungsprozessen, Cloud Computing und der Etablierung von DevSecOps-Praktiken. 
