@@ -20,11 +20,10 @@ tags:
 type: "post"
 ---
 
-# Was ist DevOps?
 
-Warum die *DevOps*-Bewegung enstanden ist habe ich bereits [hier](/blog/devops-brauchen-wir-das) beschrieben.
-Nun stellt sich die große Frage: Was genau ist *DevOps*? 
-Handelt es sich um den Einsatz neuer Werkzeuge? Geht es um eine spezielle Haltung? Vielleicht auch beides?
+Warum die *DevOps*-Bewegung enstanden ist habe ich bereits [hier](/blog/hey-machen-wir-doch-devops) beschrieben.
+Nun stellt sich allerdings die wichtige Frage: Was genau ist *DevOps*? 
+Handelt es sich um den Einsatz neuer Werkzeuge? Geht es um eine spezielle Arbeitsweise? Vielleicht auch beides?
 
 
 ## Die Prinzipien von DevOps
@@ -44,7 +43,7 @@ Um das Ziel einer sich ständig weiterentwickelnden, aber stabilen Software zu e
 Der Grundsatz lautet **„You build it, you run it!“**.
 
 
-Die Softwareentwicklung endet nicht mehr beim Ausliefern der Software mit Betriebsanleitung, sondern dann, wenn die entwickelte Software erfolgreich in Produktion läuft. Produktionsprobleme sind damit nicht mehr alleinige Sache der Betriebs-MitarbeiterInnen, sondern für die Softwareentwickler soll transparent sein, wie es der Software gerade geht und was aus dem laufenden Betrieb gelernt werden kann. Das heißt umgekehrt, damit der Betrieb reibungslos und optimiert funktionieren kann, muss bereits bei der Konzeption der Software der Betrieb mitgedacht werden. Der erste Kontakt zum Betrieb findet nicht mehr erst dann statt, wenn die Software fertig ist, sondern bereits bei den ersten Architektur- und Release-Konzepten. Entwicklung und Betrieb entwerfen gemeinsam eine Lösung für schnelle, regelmäßige und stabile Rollouts. 
+Die Softwareentwicklung endet nicht mehr beim Ausliefern der Software mit Betriebsanleitung, sondern dann, wenn die entwickelte Software erfolgreich in Produktion läuft. Produktionsprobleme sind damit nicht mehr alleinige Sache der BetriebsmitarbeiterInnen, sondern für die SoftwareentwicklerInnen soll transparent sein, wie es der Software gerade geht und was aus dem laufenden Betrieb gelernt werden kann. Das heißt umgekehrt, damit der Betrieb reibungslos und optimiert funktionieren kann, muss bereits bei der Konzeption der Software der Betrieb mitgedacht werden. Der erste Kontakt zum Betrieb findet nicht mehr erst dann statt, wenn die Software fertig ist, sondern bereits bei den ersten Architektur- und Release-Konzepten. Entwicklung und Betrieb entwerfen gemeinsam eine Lösung für schnelle, regelmäßige und stabile Rollouts. 
 Damit diese Optimierung stattfinden kann, ist eines der Kernelemente die Automatisierung. Werkzeuge und Prozesse für Continuous Integration, Continuous Testing und Continuous Deployment spielen eine entscheidende Rolle, um *DevOps* zu kultivieren. Ohne diesen Werkzeugeinsatz und passende Technologien wird die regelmäßige Bereitstellung nur schwer umsetzbar.
 
 

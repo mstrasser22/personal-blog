@@ -19,7 +19,7 @@ Ich begann meine Praxiserfahrung im Bereich der Softwareentwicklung nach Abschlu
 Nach mehreren Jahren .NET Desktop-Entwicklung bin ich nun vorrangig im Bereich der Webentwicklung im .NET-Umfeld tätig.
 In meinem Arbeitsalltag beschäftige ich mich mit Themen rund um Softwarearchitektur, Softwareentwicklungsprozessen, Cloud Computing und der Etablierung von DevSecOps-Praktiken. 
 Ich bin Mutter von zwei Kindern und verbringe meine Zeit gerne mit meiner Familie im Garten.
-Um die vielen Eindrücke und Erfahrungen meiner Tätigkeit zu verarbeiten und zu ordnen, schreibe ich sie nieder.
+Um die vielen Eindrücke und Erfahrungen meiner Tätigkeit zu verarbeiten und zu ordnen schreibe ich sie nieder.
 Das teile ich gerne hier auf meinem Blog.
 
 Die Artikel geben meine Sicht der Dinge wieder. Um den Blickwinkel und mein Wissen zu erweitern bin ich gerne offen für konstruktive Diskussionen, kritische Betrachtungen sowie Korrekturen. [Kontaktiere mich](/contact)

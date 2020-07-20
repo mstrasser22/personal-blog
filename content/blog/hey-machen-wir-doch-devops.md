@@ -1,5 +1,5 @@
 ---
-title: "DevOps - Brauchen wir das?"
+title: "Hey, machen wir doch DevOps!"
 date: 2020-07-05T18:54:21+02:00
 draft: false
 
@@ -20,7 +20,6 @@ tags:
 type: "featured"
 ---
 
-# DevOps - Brauchen wir das?
 
 Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun *DevOps*! 
 Passt super zum neuen Projekt und alle anderen machen es doch auch schon, da will man nicht hinten anstehen. 
@@ -43,15 +42,15 @@ Um das hat sich jemand anderes gekümmert und es lebte sich ganz gut - außer be
   
 Ist die Ursache des Problems nicht ganz klar, wird's unangenehm. 
 Haben die EntwicklerInnen bei der Umsetzung einen Fehler eingebaut? Wurde die Betriebsumgebung von den AdministratorInnen falsch konfiguriert? 
-Passen die Konfigurationen und Softwareversionen der Betriebsumgebung mit der ausgelieferten Software zusammen? Wo liegt die Ursache und wer ist verantwortlich? 
+Passen die Softwareversionen der Betriebsumgebung mit der ausgelieferten Software zusammen? Wo liegt die Ursache und wer ist verantwortlich? 
 Der Ball könnte endlos zwischen Entwicklung und Betrieb hin- und hergespielt werden. 
-Was zu einer großen Wahrscheinlichkeit auch noch zutrifft: Auf dem Entwicklungs-PC oder dem Testserver tritt das Problem nicht auf!
+Was zu einer großen Wahrscheinlichkeit auch noch zutrifft: Auf dem Entwicklungs-PC oder dem Testserver tritt das Problem natürlich nicht auf!
 
 
 Als Entwicklerin kann ich von der Ferne und ohne nähere Kenntnisse des Betriebs in solchen Fällen nur sehr eingeschränkt helfen. 
 Dann ist es ein bisschen so, wie wenn das eigene Kind das erste Mal alleine den Hang mit dem Schlitten runtersaust: 
 man kann zurufen, ermutigen und Gebete sprechen, aber letztendlich kann man nicht mehr viel tun und muss seinen Sprössling dem Schicksal überlassen.
-Zum Glück waren diese betriebsabhängigen Softwareprobleme, mit denen ich zu tun hatte, eher Ausnahmefälle. 
+Zum Glück hatte ich nur in Ausnahmefällem mit Problemen zu tun, die bei der Software ausschließlich im Betrieb auftauchten. 
 
 Dann kommt ein neues Projekt, ein Webprojekt, das sehr geprägt von der Infrastruktur der KundInnen und EndkundInnen ist. 
 Nicht nur ist das Web nun ein völlig neues Feld, plötzlich ist es nicht mehr so einfach Softwareentwicklung und den Betrieb zu trennen. 
@@ -85,7 +84,7 @@ DevOps ist aktueller denn je. Ein Blick in Magazine und Konferenzagenden reicht 
 Es ist klar erkennbar, dass es sich nicht um einen momentanen Hype handelt, der in Kürze Geschichte ist. Vielmehr handelt es sich um eine jahrelange Entwicklung, die durch *DevOps* erst einen Namen bekommen hat und damit in Organisationen diskutiert und fokussiert werden kann.
 
 ## Fazit
-*DevOps* basiert auf der Erfahrung vieler Unternehmen, die Lösungen für Probleme suchen, die durch die strikte Trennung von Entwicklung und Betrieb entstehen. Meine eigene Erfahrung hat gezeigt, dass zum Entwicklungszeitpunkt bereits die richtigen Fragen zum Betrieb gestellt werden müssen, um gut betreibbare Software zu entwicklen. *DevOps* liefert dazu die notwendige Grundlage. Als ich zum ersten Mal davon hörte, konnte ich also mit gutem Gewissen sofort begeistert zustimmen, *DevOps* von Anfang an in neue Projekte zu integrierenn. Was sich nun genau hinter *DevOps* verbirgt, finden Sie [hier](/blog/was-ist-devops).
+*DevOps* basiert auf der Erfahrung vieler Unternehmen, die Lösungen für Probleme suchen, die durch die strikte Trennung von Entwicklung und Betrieb entstehen. Meine eigene Erfahrung hat gezeigt, dass zum Entwicklungszeitpunkt bereits die richtigen Fragen zum Betrieb gestellt werden müssen, um stabile und gut betreibbare Software zu entwicklen. *DevOps* liefert dazu die notwendige Grundlage. Als ich zum ersten Mal davon hörte, konnte ich also mit gutem Gewissen sofort begeistert zustimmen, *DevOps* von Anfang an in neue Projekte zu integrieren. Was sich genau hinter *DevOps* verbirgt, ist [hier](/blog/was-ist-devops) zu finden.
 
 
 

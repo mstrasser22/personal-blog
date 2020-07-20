@@ -6,18 +6,27 @@
     <description>Recent content in DevSecOps on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 05 Jul 2020 18:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0200</lastBuildDate>
     
 	<atom:link href="https://personalblogst.z6.web.core.windows.net/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Devops - Wer hat noch nicht, wer will nochmal</title>
-      <link>https://personalblogst.z6.web.core.windows.net/blog/devops-wer-hat-noch-nicht/</link>
+      <title>Was ist DevOps?</title>
+      <link>https://personalblogst.z6.web.core.windows.net/blog/was-ist-devops/</link>
+      <pubDate>Sun, 19 Jul 2020 18:54:21 +0200</pubDate>
+      
+      <guid>https://personalblogst.z6.web.core.windows.net/blog/was-ist-devops/</guid>
+      <description>Warum die DevOps-Bewegung enstanden ist habe ich bereits hier beschrieben. Nun stellt sich allerdings die wichtige Frage: Was genau ist DevOps?</description>
+    </item>
+    
+    <item>
+      <title>Hey, machen wir doch DevOps!</title>
+      <link>https://personalblogst.z6.web.core.windows.net/blog/hey-machen-wir-doch-devops/</link>
       <pubDate>Sun, 05 Jul 2020 18:54:21 +0200</pubDate>
       
-      <guid>https://personalblogst.z6.web.core.windows.net/blog/devops-wer-hat-noch-nicht/</guid>
-      <description>DevOps - Wer hat noch nicht, wer will nochmal? Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun DevOps!</description>
+      <guid>https://personalblogst.z6.web.core.windows.net/blog/hey-machen-wir-doch-devops/</guid>
+      <description>Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun DevOps!</description>
     </item>
     
   </channel>
