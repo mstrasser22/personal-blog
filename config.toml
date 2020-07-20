@@ -1,4 +1,4 @@
-baseURL = "https://personalblogst.z6.web.core.windows.net/"
+baseURL = "http://www.maria-strasser.at/"
 languageCode = "de-at"
 title = "Maria Strasser - Software Development Blog"
 theme="liva-hugo"

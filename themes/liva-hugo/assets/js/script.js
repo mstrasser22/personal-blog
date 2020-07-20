@@ -43,13 +43,14 @@
 			type: "POST",
 			contentType: "application/json; charset=UTF-8",
 			
-			Success: function(msg){
+			success: function(result){
 				$('#success').text('Anmeldung erfolgreich');
 			},
 			error: function(XMLHttpRequest, textStatus, errorThrown) {
 				$('#success').text('Anmeldung fehlgeschlagen');
 			}
 		});	
+		
       })
 
   })(jQuery);

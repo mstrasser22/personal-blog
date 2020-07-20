@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Maria Strasser - Software Development Blog</title>
-    <link>https://personalblogst.z6.web.core.windows.net/blog/</link>
+    <link>http://www.maria-strasser.at/blog/</link>
     <description>Recent content in Blogs on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0200</lastBuildDate>
     
-	<atom:link href="https://personalblogst.z6.web.core.windows.net/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.maria-strasser.at/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Was ist DevOps?</title>
-      <link>https://personalblogst.z6.web.core.windows.net/blog/was-ist-devops/</link>
+      <link>http://www.maria-strasser.at/blog/was-ist-devops/</link>
       <pubDate>Sun, 19 Jul 2020 18:54:21 +0200</pubDate>
       
-      <guid>https://personalblogst.z6.web.core.windows.net/blog/was-ist-devops/</guid>
+      <guid>http://www.maria-strasser.at/blog/was-ist-devops/</guid>
       <description>Warum die DevOps-Bewegung enstanden ist habe ich bereits hier beschrieben. Nun stellt sich allerdings die wichtige Frage: Was genau ist DevOps?</description>
     </item>
     
     <item>
       <title>Hey, machen wir doch DevOps!</title>
-      <link>https://personalblogst.z6.web.core.windows.net/blog/hey-machen-wir-doch-devops/</link>
+      <link>http://www.maria-strasser.at/blog/hey-machen-wir-doch-devops/</link>
       <pubDate>Sun, 05 Jul 2020 18:54:21 +0200</pubDate>
       
-      <guid>https://personalblogst.z6.web.core.windows.net/blog/hey-machen-wir-doch-devops/</guid>
+      <guid>http://www.maria-strasser.at/blog/hey-machen-wir-doch-devops/</guid>
       <description>Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun DevOps!</description>
     </item>
     
