@@ -21,7 +21,7 @@ type: "post"
 ---
 
 
-Warum die *DevOps*-Bewegung entstanden ist habe ich bereits [hier](/blog/hey-machen-wir-doch-devops) beschrieben.
+Warum die *DevOps*-Bewegung entstanden ist, habe ich bereits [hier](/blog/hey-machen-wir-doch-devops) beschrieben.
 Nun stellt sich allerdings die wichtige Frage: Was genau ist *DevOps*? 
 Handelt es sich um den Einsatz neuer Werkzeuge? Geht es um eine spezielle Arbeitsweise? Vielleicht auch beides?
 
