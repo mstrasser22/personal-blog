@@ -21,7 +21,7 @@ type: "post"
 ---
 
 
-Warum die *DevOps*-Bewegung enstanden ist habe ich bereits [hier](/blog/hey-machen-wir-doch-devops) beschrieben.
+Warum die *DevOps*-Bewegung entstanden ist habe ich bereits [hier](/blog/hey-machen-wir-doch-devops) beschrieben.
 Nun stellt sich allerdings die wichtige Frage: Was genau ist *DevOps*? 
 Handelt es sich um den Einsatz neuer Werkzeuge? Geht es um eine spezielle Arbeitsweise? Vielleicht auch beides?
 
@@ -32,7 +32,7 @@ Was verbirgt sich nun genau hinter *DevOps*?
 
 Durch *DevOps* findet Agilität, die im Entwicklungsbereich bereits eine große Verbreitung hat, auch im Betrieb ihren Platz und ihre Umsetzung. 
 Es bringt wenig, wenn die Entwicklung in kurzen Feedbackschleifen und Iterationsintervallen neue Versionen zur Verfügung stellt, wenn diese nicht in Betrieb genommen werden. Hier entsteht aber durchaus ein Zielkonflikt. Immerhin ist es der Job und die Verantwortung des Betriebs, für Stabilität zu sorgen. 
-Jedes Update einer Software gefährdet diese gewünschte Stabilität potenziell. Folglich ist es aus Sicht des Betriebs weitaus angenehmer, wenn Software-Updates so selten wie möglich durchgeführt werden. Das führt zu großen Release-Paketen, die lange geplant und aufwändig durchgeführt werden. Da bei solch großen Releases auch mehr Fehler mitausgeliefert werden, darf man die Zeit der Nacharbeiten nicht unterschätzen.
+Jedes Update einer Software gefährdet diese gewünschte Stabilität potenziell. Folglich ist es aus Sicht des Betriebs weitaus angenehmer, wenn Software-Updates so selten wie möglich durchgeführt werden. Das führt zu großen Release-Paketen, die lange geplant und aufwändig durchgeführt werden. Da bei solch großen Releases auch mehr Fehler ausgeliefert werden, darf man die Zeit der Nacharbeiten nicht unterschätzen.
 
 
 Wie also soll nun Agilität in den Betrieb finden? 
