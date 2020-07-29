@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Strasser - Software Development Blog</title>
-    <link>http://www.maria-strasser.at/</link>
+    <link>https://www.maria-strasser.at/</link>
     <description>Recent content on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0200</lastBuildDate>
     
-	<atom:link href="http://www.maria-strasser.at/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.maria-strasser.at/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Was ist DevOps?</title>
-      <link>http://www.maria-strasser.at/blog/was-ist-devops/</link>
+      <link>https://www.maria-strasser.at/blog/was-ist-devops/</link>
       <pubDate>Sun, 19 Jul 2020 18:54:21 +0200</pubDate>
       
-      <guid>http://www.maria-strasser.at/blog/was-ist-devops/</guid>
+      <guid>https://www.maria-strasser.at/blog/was-ist-devops/</guid>
       <description>Warum die DevOps-Bewegung entstanden ist, habe ich bereits hier beschrieben. Nun stellt sich allerdings die wichtige Frage: Was genau ist DevOps?</description>
     </item>
     
     <item>
       <title>Hey, machen wir doch DevOps!</title>
-      <link>http://www.maria-strasser.at/blog/hey-machen-wir-doch-devops/</link>
+      <link>https://www.maria-strasser.at/blog/hey-machen-wir-doch-devops/</link>
       <pubDate>Sun, 05 Jul 2020 18:54:21 +0200</pubDate>
       
-      <guid>http://www.maria-strasser.at/blog/hey-machen-wir-doch-devops/</guid>
+      <guid>https://www.maria-strasser.at/blog/hey-machen-wir-doch-devops/</guid>
       <description>Da sitzen wir nun – das Team rund um den Besprechungstisch und alle sind ganz begeistert, denn wir machen nun DevOps!</description>
     </item>
     

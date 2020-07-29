@@ -1,4 +1,4 @@
-baseURL = "http://www.maria-strasser.at/"
+baseURL = "https://www.maria-strasser.at/"
 languageCode = "de-at"
 title = "Maria Strasser - Software Development Blog"
 theme="liva-hugo"
@@ -80,7 +80,7 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Startseite"
 # Meta data
-description = "This is meta description"
+description = "Themen und Erfahrungen zum Thema Softwareentwicklung, Architektur und Softwareentwicklungsprozesse"
 author = "Maria Strasser"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -88,7 +88,7 @@ googleAnalitycsID = "Your ID"
 #mobile = "0124857985320"
 email = "kontakt@maria-strasser.at"
 location = "Linz, Austria"
-hpage = "http://www.maria-strasser.at"
+hpage = "https://www.maria-strasser.at"
 # copyright
 #copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
 
