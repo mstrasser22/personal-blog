@@ -80,14 +80,14 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Startseite"
 # Meta data
-description = "Themen und Erfahrungen zum Thema Softwareentwicklung, Architektur und Softwareentwicklungsprozesse"
+description = "Themen und Erfahrungen aus den Bereichen Softwareentwicklung, Architektur und Softwareentwicklungsprozesse"
 author = "Maria Strasser"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
 #mobile = "0124857985320"
 email = "kontakt@maria-strasser.at"
-location = "Linz, Austria"
+location = "Baumgartenberg, Austria"
 hpage = "https://www.maria-strasser.at"
 # copyright
 #copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
