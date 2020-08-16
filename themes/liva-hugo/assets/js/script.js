@@ -38,19 +38,27 @@
 		const emaildata = $('#newsletterEmail').val();
 		const url = 'https://newsletterfuncapp.azurewebsites.net/api/AddNewsletterEmail?code=OQR48lOOdv2qb7jJqOK1AVP6DwXzoqpeAn7gX32FYEIwq4bj05IPQA==';
 		
-		$.ajax(url, {
-			data: JSON.stringify({email: $('#newsletterEmail').val() }),
-			type: "POST",
-			contentType: "application/json; charset=UTF-8",
-			
-			success: function(result){
-				$('#success').text('Anmeldung erfolgreich');
-			},
-			error: function(XMLHttpRequest, textStatus, errorThrown) {
-				$('#success').text('Anmeldung fehlgeschlagen');
-			}
-		});	
-		
+		if (emaildata) {	
+			$('#newsletterLoader').removeAttr("hidden");
+	  
+			$.ajax(url, {
+				data: JSON.stringify({email: $('#newsletterEmail').val() }),
+				type: "POST",
+				contentType: "application/json; charset=UTF-8",
+				
+				success: function(result){
+					$('#success').text('Anmeldung erfolgreich');
+					$('#newsletterLoader').attr("hidden",true);
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown) {
+					$('#success').text('Anmeldung fehlgeschlagen');
+					$('#newsletterLoader').attr("hidden",true);
+				}
+			});	
+		}
+		else {
+			$('#success').text('keine gültige E-Mail Adresse');
+		}	
       })
 
   })(jQuery);
