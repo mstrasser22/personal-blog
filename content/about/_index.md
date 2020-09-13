@@ -22,5 +22,5 @@ Ich bin Mutter von zwei Kindern und verbringe meine Zeit gerne mit meiner Famili
 Um die vielen Eindrücke und Erfahrungen meiner Tätigkeit zu verarbeiten und zu ordnen schreibe ich sie nieder.
 Das teile ich gerne hier auf meinem Blog.
 
-Die Artikel geben meine Sicht der Dinge wieder. Um den Blickwinkel und mein Wissen zu erweitern bin ich gerne offen für konstruktive Diskussionen, kritische Betrachtungen sowie Korrekturen. [Kontaktiere mich](/contact)
+Die Artikel geben meine Sicht der Dinge wieder. Um den Blickwinkel und mein Wissen zu erweitern, bin ich gerne offen für konstruktive Diskussionen, kritische Betrachtungen sowie Korrekturen. [Kontaktiere mich](/contact)
 
