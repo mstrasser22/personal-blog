@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 18:54:21 +0200</lastBuildDate>
     
 	<atom:link href="https://www.maria-strasser.at/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testautomatisierung</title>
+      <link>https://www.maria-strasser.at/categories/testautomatisierung/</link>
+      <pubDate>Sun, 30 Aug 2020 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/categories/testautomatisierung/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DevOps</title>

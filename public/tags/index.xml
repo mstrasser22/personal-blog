@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 18:54:21 +0200</lastBuildDate>
     
 	<atom:link href="https://www.maria-strasser.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>DevOps</title>
       <link>https://www.maria-strasser.at/tags/devops/</link>
-      <pubDate>Sun, 19 Jul 2020 18:54:21 +0200</pubDate>
+      <pubDate>Sun, 30 Aug 2020 18:54:21 +0200</pubDate>
       
       <guid>https://www.maria-strasser.at/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testautomatisierung</title>
+      <link>https://www.maria-strasser.at/tags/testautomatisierung/</link>
+      <pubDate>Sun, 30 Aug 2020 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/tags/testautomatisierung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Test</title>
+      <link>https://www.maria-strasser.at/tags/unit-test/</link>
+      <pubDate>Sun, 30 Aug 2020 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/tags/unit-test/</guid>
       <description></description>
     </item>
     

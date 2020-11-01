@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 18:54:21 +0200</lastBuildDate>
     
 	<atom:link href="https://www.maria-strasser.at/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testautomatisierung macht doch jeder?</title>
+      <link>https://www.maria-strasser.at/blog/testautomatisierung-macht-doch-jeder/</link>
+      <pubDate>Sun, 30 Aug 2020 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/blog/testautomatisierung-macht-doch-jeder/</guid>
+      <description>Nachdem mein Mann schon angekündigt hat, dass der nächste Artikel über Testautomatisierung ist, widme ich mich heute einem meiner Lieblingsthemen.</description>
+    </item>
     
     <item>
       <title>Was ist DevOps?</title>
