@@ -1,57 +1,8 @@
----
-title: "Der Fokus auf Produktivität"
-date: 2020-10-18T18:54:21+02:00
-draft: false
-
-# post thumb
-image: "images/blog/produktivity.jpg"
-
-# meta description
-description: "Ein Blick auf die Produktivität in Software Development Teams"
-
-# taxonomies
-categories: 
-  - "Software Development"
-tags:
-  - "Software Development"
-  - "IT-Management"
-
-# post type
-type: "featured"
----
-
-In den letzten 1,5 Jahren habe ich mich intensiv mit Konzepten, Prozessen und Werkzeugen befasst, die uns dabei helfen sollen, unsere Softwareentwicklung zu modernisieren. Der Aufbau einer Microservice-Architektur, Umstellung auf DevSecOps und der Schritt in die Cloud sind die wesentliche Eckpfeiler davon. Nichts davon lässt sich von heute auf morgen einfach so herzaubern. Für alle Beteiligten ist es eine große Umstellung im Denken und Handeln. Langfristig erhoffe ich mir damit die Produktivität der Softwareentwicklung zu steigern, kurzfristig muss ich gestehen, dass der Weg dahin einem ganz schön viel abverlangt. 
-Es wäre naiv zu erwarten, dass eine reine Willenserklärung ausreicht. Die neuen Strukturen, Denkweisen, Knowhow und notwendige Infrastruktur gehört erst mal aufgebaut. Da kommt es schon mal zu etwas Chaos. Daher ist es umso wichtiger, zu jedem Zeitpunkt das Ziel klar im Fokus zu behalten: Wir möchten die vom Kunden benötigte Software effizient und in guter Qualität entwickeln und bereitstellten.
-Den Aspekt *Qualität* in Softwareprojekte zu bringen, behandle ich in anderen Artikeln.
-Was aber heißt es, Software effizient zu entwickeln? 
-Diese Frage hab ich mir in letzter Zeit oft gestellt und mögliche Faktoren analysiert, die sich meiner Erfahrung nach positiv aber auch negativ auf die *Produktivität* (die eigene, des Teams, der Organisation) auswirken können.
-
-### Produktivität in Software Development Teams
-
-Fangen wir mit etwas Grundlagenarbeit an. Was ist denn überhaupt *Produktivität* in der Softwareentwicklung?
-Dazu gibt es wahrscheinlich viele, viele Definitionen und noch mehr Arten, diese zu analysieren und zu messen. Das zu googlen, überlasse ich jedem Leser/jeder Leserin selbst. 
-Die Frage, die ich mir also stelle, ist nicht wie *Produktivität* in der Literatur definiert wird, sondern was ich und mein Umfeld darunter verstehen.
-Bei mir (und vermutlicha auch bei vielen anderen) taucht beim Thema *Produktivät* im Kopf softort auf, etwas "ganz schnell" zu machen. Schnell ein Problem lösen, schnell codieren, schnell Features an den Kunden liefern, schnell irgendwas dokumentieren.
-Wenn ich diesen Gedanken näher betrachte, suggeriert dieser aber ein falsches Bild. Nur etwas "schnell" zu machen, heißt nicht, auch die Wünsche der KundInnen zu befriedigen. Also habe ich etwas länger darüber nachgedacht, was es für mich heißt, *produktiv* zu sein.
-
-*Produktivität* ist meines Verständnisses nach die Fähigkeit *Anforderungen der Kunden **priorisiert**, mit den definierten **Qualitätskriterien** entwickelt und mit Fokus auf den Kundennutzen zum **vereinbarten Termin** (und damit Preis) auszuliefern - und das so oft wie möglich*. Dabei ist ein wesentlicher Faktor, dass das Verhältnis zwischen Gesamtaufwand des Features und dem Kundennutzen stimmt. Ansonsten läuft man in die Gefahr, Unmengen an Ressourcen für Features oder Hilfswerkzeuge zu verschwenden, die am Ende des Tages kein Mensch braucht und damit auch nicht bezahlt werden. 
-
-Eines ist aus meiner Sicht empfehlenswert: für das Projekt bzw. das Team ein **gemeinsames Verständnis von Produktivität** zu finden. Denn damit ist gewährleistet, dass jeder das Ziel hinsichtlich Produktivitätsanforderungen kennt und damit auch dazu beitragen kann, dieses zu erreichen.
-
-### Wie steigert man Produktivität?
-
-Zuerst einmal stellt sich die Frage: habe ich überhaupt ein Produktivitätsproblem? 
-Das ist eine Frage, die vermutlich gar nicht so leicht zu beantworten ist.
-Ich kann hier an dieser Stelle nur für mich beantworten, warum mich das Thema gerade interssiert:
-- Menschen und Organisationen, die agil arbeiten und sich weiterentwickeln wollen (und dazu zähle ich mich und meine KollegInnen) halten immer wieder einmal inne, um zu reflektieren, dazuzulernen und Gelerntes umzusetzen. Das betrifft natürlich auch die Thematik *Produktivität*.
-- Viele, viele Aufträge und Fristen machen es unumgänglich, jegliche innefiziente Lücken aufzudecken und zu beseitigen.
-- Effizienz macht es möglich, am Markt zu bestehen und sich gegenüber der Konkurrenz abzuheben.
-- Je produktiver ich/wir arbeiten und Kundenanforderungen erfüllen, desto weniger Druck ist seitens KundInnen und Vorgesetzten zu erwarten, es sind keine nächtlichen Huschpfusch-Aktionen notwendig und unnötige Übestunden lassen sich damit auch vermeiden. Damit stimmt am Ende die Work-Life-Balance für die MitarbeiterInnen. Eine **Balance zwischen KundInnenwünschen, den Bedürfnissen der Vorgesetzten sowie der MitarbeiterInnen** zu finden macht alle glücklich, und das sollte doch das Ziel einer Organisation sein!? ;-)
-
-Um mögliche Verbesserungspotenziale hinsichtlich *Produktivität* zu finden, habe ich verschiedenste Bereiche näher betrachtet. Nachfolgend habe ich diese Bereiche mit einer kurzen Erklärung aufgelistet. Wer näher in das Thema und meine Erkenntnisse einsteigen will, findet hier [HIER ARTIKEL VERLINKEN] die Details.
-
-1. **Agiles Vorgehen**
-Agile Methoden versprechen Effizient bei der Softwareentwicklung. Nichtsdestotrotz gibt es zwischen Theorie und Praxis Unterschiede. Den Entwicklungspprozess regelmäßig unter die Lupe zu nehmen, Abweichungen beim Namen zu nennen und Verbesserungen vorzunehmen, sollten unbedingt auch gemacht werden.
+1. Agiles Vorgehen
+Agile Methoden zu verwenden, um effizient Software zu entwickeln, ist mittlerweile in unserer Branche sehr verbreitet. Sich für diese Vorgehensweise zu entscheiden, halte ich auch für sehr schlau.
+Nach über 10 Jahren Scrum stelle ich aber auch folgendes fest:
+Sich "agil" auf die Fahnen zu heften, heißt nicht alles auch korrekt umzusetzen. Zwischen Theorie und Praxis ist ein Unterschied, und darauf acht zu geben, sich selbst bei der Umsetzung nicht anzulügen, ist ein wichtiger Faktor.
+Auch wenn die Umstellung auf agile Softwareentwicklung einmal geglückt ist, heißt das nicht, dass sich nicht auch mal ein "Schlendrian" einschleicht. Obwohl wir schon so lange agile Methoden im Team praktizieren, müssen wir immer wieder unsere Methoden und Prozesse betrachten, radikal ehrlich zu uns sein und uns fragen, ob wir uns nicht selber wo anlügen und schönreden, was eigentlich schon längst verbessert gehört.
 
 2.  Klare Ziele, Klare Anforderungen, Klare Prioritäten
 Da bin ich eigentlich schon bei einem der größten Produktivitätshemmer angekommen:
@@ -69,7 +20,7 @@ Um aus dieser Phase herauszukommen, habe ich damit angefangen mich selbst, POs u
 Sind die Ziele und Anforderunge klar definiert, müssen Prioritäten eingefordert werden! Es gibt nichts, das mehr lähmt, als wenn man so viel Arbeit hat, dass man nicht weiß, was man zuerst machen soll. Und weil nicht klar ist was dringender ist, macht man irgendwie gar nichts... so ist das zumindest mir so. Wenn ich aber weiß, was der nächst wichtigste Punkt ist, kann ich eine klare Reihenfolge bilden, und erhöhe so meinen Durchsatz.
 
 
-3. Verschwendung und Engpässe lokalisieren und bereinigen
+#### Verschwendung und Engpässe lokalisieren und bereinigen
 Was Produktivität, egal in welcher Branche, hemmt, sind Verschwendung und Engpässe.
 Unter Verschwendung fällt alles, was keinen Kundennutzen genieriert und eigentlich vermeidbar wäre, z.B. unnötige Bürokratie, unnötige Besprechungen, inneffiziente Planung.
 Engpässe in Softwareentwicklungsteams können ganz unterschiedlicher Natur sein, sie zeichnen sich aber dadurch aus, dass es zu einem Flaschenhals kommt, wo Wartezeiten entstehen.
@@ -83,7 +34,7 @@ DEVOPS BUCH sowie LInk drauf?
 Um Verschwendung und Engpässe aufzudecken, ist Beobachtung gefragt. Ich mache das gerne bei mir selber, dass ich an manchen Tagen bewusst darauf achte, was ich eigentlich so mache und was davon vermeidbar und keinen Nutzen hat (weder für mich persönlich, noch für das Projekt, die Familie, etc.). Wenn das jeder im Team macht, lassen sich sicher einige Tätigkeiten aufdecken, die ersetzt oder optimiert (automatisiert) werden können. Das gleiche gilte für Flaschenhälse - auch hier ist ein Zeitraum der Beobachtung notwendig, um diese zu erkennen, außer es ist sehr sehr offensichtlich.
 
 
-4. Kommunikation und Besprechungen
+#### Kommunikation und Besprechungen
 Ich bin ein riesiger Fan von Kommunikation, darum möchte ich dieses Thema hier mit Vorsicht ansprechen.
 Meiner Beobachtung nach ist nämlich Kommunikation nach wie vor der Bereich, der (egal ob privat oder beruflich) sehr vernachlässigt wird und sehr häufig zu Missverständnissen führt. 
 Was ich aber hier trotzdem erwähnen möchte, obowhl ich eher zu mehr Komminikation ermutige, dass auch hier acht zu geben ist, die Kommunikation effizient zu gestalten.
@@ -94,7 +45,7 @@ Rechnet man mal hoch, was solche Besprechungen kosten, ist das sehr erschreckend
 In solchen Situationen kann es helfen (wie es auch der Microservice-Ansatz vorsieht) kleinere, effiziente Teams zu bilden, die jeweils voneinander getrennte Themen bearbeiten und verantworten. Außerdem kann auch betrachtet werden, warum so viele Menschen involviert sind. Tragen alle auch zu einem Ergebnis bei? Gibt es manche, die einfach nur Informationen benötigen, die auch auf andere Art und Weise transportiert werden könnten? Ist es reine Nächstenliebe á la "ich will doch niemanden ausschließen"?
 Kommunikation und Besprechungen sind auch etwas Dynamisches, das heißt die Situation im Projekt gehört immer wieder neu betrachtet und wenn notwendig der Kurs korrigiert.
 
-5. Fokus und "Flow"
+#### Fokus und "Flow"
 Auch ein Thema, von dem ich ein Lied singen kann ist es, den Fokus zu halten. Sich zu einem Zeitpunkt auf genau eine Sache zu konzentrieren, scheint in unserer schnelllebigen Multi-Tasking-Welt eher rares Gut zu sein. Obowhl es immer hieß "Frauen sind doch multitasking-fähig" hatt ich in meiner Jugend eine andere Erkenntniss. Kurze Zeit dachte ich, statt in der IT zu bleiben werde ich Fluglotsin (nicht zu verwechseln mit Flugbegleiterin ;-)). Dazu muss man bei der Austrocontrol einen mehrstufigen Aufnahmetest bestehen, um die Ausbildung machen zu können. Um alle Flugzeuge gleichzeitig im Überblick haben zu können, wird mittels einer Simulation getestet, ob man dazu in der Lage ist.
 Leider schaffte ich gleich den ersten Aufnahmetest nicht, weil mein multitasking nicht ausreichend war. Das war ein Schlag ins Gesicht: eine Frau, die nicht multitasking-fähig ist. Da bin ich doch quasi nicht vermittelbar, oder?
 Zumindest gab es in der Softwareentwicklung doch noch Platz für mich. Was ich nämlich daran liebe ist, dass man sich bei der Lösung eines Problems oder beim Finden eines Fehlers so richtig tief eintauchen und rundum alles ausblenden kann. Fokus per excellence!
@@ -117,7 +68,7 @@ Hier in paar Anregungen:
 
 
 
-6. Werkzeuge und Prozesse
+#### Werkzeuge und Prozesse
 Microservices, DevOps, Cloud
 
 

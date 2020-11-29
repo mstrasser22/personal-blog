@@ -50,8 +50,11 @@ Ich kann hier an dieser Stelle nur für mich beantworten, warum mich das Thema g
 
 Um mögliche Verbesserungspotenziale hinsichtlich *Produktivität* zu finden, habe ich verschiedenste Bereiche näher betrachtet. Nachfolgend habe ich diese Bereiche mit einer kurzen Erklärung aufgelistet. Wer näher in das Thema und meine Erkenntnisse einsteigen will, findet hier [HIER ARTIKEL VERLINKEN] die Details.
 
-1. **Agiles Vorgehen**
-Agile Methoden versprechen Effizient bei der Softwareentwicklung. Nichtsdestotrotz gibt es zwischen Theorie und Praxis Unterschiede. Den Entwicklungspprozess regelmäßig unter die Lupe zu nehmen, Abweichungen beim Namen zu nennen und Verbesserungen vorzunehmen, sollten unbedingt auch gemacht werden.
+1. Agiles Vorgehen
+Agile Methoden zu verwenden, um effizient Software zu entwickeln, ist mittlerweile in unserer Branche sehr verbreitet. Sich für diese Vorgehensweise zu entscheiden, halte ich auch für sehr schlau.
+Nach über 10 Jahren Scrum stelle ich aber auch folgendes fest:
+Sich "agil" auf die Fahnen zu heften, heißt nicht alles auch korrekt umzusetzen. Zwischen Theorie und Praxis ist ein Unterschied, und darauf acht zu geben, sich selbst bei der Umsetzung nicht anzulügen, ist ein wichtiger Faktor.
+Auch wenn die Umstellung auf agile Softwareentwicklung einmal geglückt ist, heißt das nicht, dass sich nicht auch mal ein "Schlendrian" einschleicht. Obwohl wir schon so lange agile Methoden im Team praktizieren, müssen wir immer wieder unsere Methoden und Prozesse betrachten, radikal ehrlich zu uns sein und uns fragen, ob wir uns nicht selber wo anlügen und schönreden, was eigentlich schon längst verbessert gehört.
 
 2.  Klare Ziele, Klare Anforderungen, Klare Prioritäten
 Da bin ich eigentlich schon bei einem der größten Produktivitätshemmer angekommen:
@@ -69,7 +72,7 @@ Um aus dieser Phase herauszukommen, habe ich damit angefangen mich selbst, POs u
 Sind die Ziele und Anforderunge klar definiert, müssen Prioritäten eingefordert werden! Es gibt nichts, das mehr lähmt, als wenn man so viel Arbeit hat, dass man nicht weiß, was man zuerst machen soll. Und weil nicht klar ist was dringender ist, macht man irgendwie gar nichts... so ist das zumindest mir so. Wenn ich aber weiß, was der nächst wichtigste Punkt ist, kann ich eine klare Reihenfolge bilden, und erhöhe so meinen Durchsatz.
 
 
-3. Verschwendung und Engpässe lokalisieren und bereinigen
+#### Verschwendung und Engpässe lokalisieren und bereinigen
 Was Produktivität, egal in welcher Branche, hemmt, sind Verschwendung und Engpässe.
 Unter Verschwendung fällt alles, was keinen Kundennutzen genieriert und eigentlich vermeidbar wäre, z.B. unnötige Bürokratie, unnötige Besprechungen, inneffiziente Planung.
 Engpässe in Softwareentwicklungsteams können ganz unterschiedlicher Natur sein, sie zeichnen sich aber dadurch aus, dass es zu einem Flaschenhals kommt, wo Wartezeiten entstehen.
@@ -83,7 +86,7 @@ DEVOPS BUCH sowie LInk drauf?
 Um Verschwendung und Engpässe aufzudecken, ist Beobachtung gefragt. Ich mache das gerne bei mir selber, dass ich an manchen Tagen bewusst darauf achte, was ich eigentlich so mache und was davon vermeidbar und keinen Nutzen hat (weder für mich persönlich, noch für das Projekt, die Familie, etc.). Wenn das jeder im Team macht, lassen sich sicher einige Tätigkeiten aufdecken, die ersetzt oder optimiert (automatisiert) werden können. Das gleiche gilte für Flaschenhälse - auch hier ist ein Zeitraum der Beobachtung notwendig, um diese zu erkennen, außer es ist sehr sehr offensichtlich.
 
 
-4. Kommunikation und Besprechungen
+#### Kommunikation und Besprechungen
 Ich bin ein riesiger Fan von Kommunikation, darum möchte ich dieses Thema hier mit Vorsicht ansprechen.
 Meiner Beobachtung nach ist nämlich Kommunikation nach wie vor der Bereich, der (egal ob privat oder beruflich) sehr vernachlässigt wird und sehr häufig zu Missverständnissen führt. 
 Was ich aber hier trotzdem erwähnen möchte, obowhl ich eher zu mehr Komminikation ermutige, dass auch hier acht zu geben ist, die Kommunikation effizient zu gestalten.
@@ -94,7 +97,7 @@ Rechnet man mal hoch, was solche Besprechungen kosten, ist das sehr erschreckend
 In solchen Situationen kann es helfen (wie es auch der Microservice-Ansatz vorsieht) kleinere, effiziente Teams zu bilden, die jeweils voneinander getrennte Themen bearbeiten und verantworten. Außerdem kann auch betrachtet werden, warum so viele Menschen involviert sind. Tragen alle auch zu einem Ergebnis bei? Gibt es manche, die einfach nur Informationen benötigen, die auch auf andere Art und Weise transportiert werden könnten? Ist es reine Nächstenliebe á la "ich will doch niemanden ausschließen"?
 Kommunikation und Besprechungen sind auch etwas Dynamisches, das heißt die Situation im Projekt gehört immer wieder neu betrachtet und wenn notwendig der Kurs korrigiert.
 
-5. Fokus und "Flow"
+#### Fokus und "Flow"
 Auch ein Thema, von dem ich ein Lied singen kann ist es, den Fokus zu halten. Sich zu einem Zeitpunkt auf genau eine Sache zu konzentrieren, scheint in unserer schnelllebigen Multi-Tasking-Welt eher rares Gut zu sein. Obowhl es immer hieß "Frauen sind doch multitasking-fähig" hatt ich in meiner Jugend eine andere Erkenntniss. Kurze Zeit dachte ich, statt in der IT zu bleiben werde ich Fluglotsin (nicht zu verwechseln mit Flugbegleiterin ;-)). Dazu muss man bei der Austrocontrol einen mehrstufigen Aufnahmetest bestehen, um die Ausbildung machen zu können. Um alle Flugzeuge gleichzeitig im Überblick haben zu können, wird mittels einer Simulation getestet, ob man dazu in der Lage ist.
 Leider schaffte ich gleich den ersten Aufnahmetest nicht, weil mein multitasking nicht ausreichend war. Das war ein Schlag ins Gesicht: eine Frau, die nicht multitasking-fähig ist. Da bin ich doch quasi nicht vermittelbar, oder?
 Zumindest gab es in der Softwareentwicklung doch noch Platz für mich. Was ich nämlich daran liebe ist, dass man sich bei der Lösung eines Problems oder beim Finden eines Fehlers so richtig tief eintauchen und rundum alles ausblenden kann. Fokus per excellence!
@@ -117,7 +120,7 @@ Hier in paar Anregungen:
 
 
 
-6. Werkzeuge und Prozesse
+#### Werkzeuge und Prozesse
 Microservices, DevOps, Cloud
 
 
