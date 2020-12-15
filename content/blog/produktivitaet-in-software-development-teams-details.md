@@ -3,6 +3,8 @@ Agile Methoden zu verwenden, um effizient Software zu entwickeln, ist mittlerwei
 Nach über 10 Jahren Scrum stelle ich aber auch folgendes fest:
 Sich "agil" auf die Fahnen zu heften, heißt nicht alles auch korrekt umzusetzen. Zwischen Theorie und Praxis ist ein Unterschied, und darauf acht zu geben, sich selbst bei der Umsetzung nicht anzulügen, ist ein wichtiger Faktor.
 Auch wenn die Umstellung auf agile Softwareentwicklung einmal geglückt ist, heißt das nicht, dass sich nicht auch mal ein "Schlendrian" einschleicht. Obwohl wir schon so lange agile Methoden im Team praktizieren, müssen wir immer wieder unsere Methoden und Prozesse betrachten, radikal ehrlich zu uns sein und uns fragen, ob wir uns nicht selber wo anlügen und schönreden, was eigentlich schon längst verbessert gehört.
+Zu oft eigene Regeln, gewisse Punkte von Scrum einfach weg weil "wir brauchen das nicht"...
+Große Scrumteams, viele POs, keine klaren Aufgaben, zu lange Daily Scrums, fehlende Retrospektiven, zu lange Sprints (Planung), zu große Backlogpunkte, keine Ziele in den Backlogpunkten, fehlende Definition of Done, wechselnde Prioritäten, 
 
 2.  Klare Ziele, Klare Anforderungen, Klare Prioritäten
 Da bin ich eigentlich schon bei einem der größten Produktivitätshemmer angekommen:
@@ -42,7 +44,7 @@ Problematisch wird es nämlich dann, wenn es zu viele Kommunikationslinien gibt,
 Das birgt die Gefahr, dass in Besprechungen viel zu viele Menschen sitzen, zu viel diskutiert wird, aber es letztendlich keine Entscheidungen getroffen werden.
 Rechnet man mal hoch, was solche Besprechungen kosten, ist das sehr erschreckend.
 
-In solchen Situationen kann es helfen (wie es auch der Microservice-Ansatz vorsieht) kleinere, effiziente Teams zu bilden, die jeweils voneinander getrennte Themen bearbeiten und verantworten. Außerdem kann auch betrachtet werden, warum so viele Menschen involviert sind. Tragen alle auch zu einem Ergebnis bei? Gibt es manche, die einfach nur Informationen benötigen, die auch auf andere Art und Weise transportiert werden könnten? Ist es reine Nächstenliebe á la "ich will doch niemanden ausschließen"?
+In solchen Situationen kann es helfen (wie es auch der Microservice-Ansatz vorsieht) kleinere, effiziente Teams zu bilden, die jeweils voneinander getrennte Themen bearbeiten und verantworten. Außerdem kann auch betrachtet werden, warum so viele Menschen involviert sind. Tragen alle auch zu einem Ergebnis bei? Gibt es manche, die einfach nur Informationen benötigen, die auch auf andere Art und Weise transportiert werden könnten? Ist es reine Nächstenliebe á la "ich will doch niemanden ausschließen"? Braucht es andere Formen, um möglichst viele Menschen (gerade in Phasen des Wandels) partizipieren zu lassen ohne Inneffizient zu werden?
 Kommunikation und Besprechungen sind auch etwas Dynamisches, das heißt die Situation im Projekt gehört immer wieder neu betrachtet und wenn notwendig der Kurs korrigiert.
 
 #### Fokus und "Flow"
@@ -81,6 +83,7 @@ Balance zwischen Qualität, Produktivität und Mitarbeiterzufriedenheit
 Ausbildung
 je sicherer jeder Mitarbeiter in dem was er tut ist, desto besser und schneller kann Arbeit verrichten
 Problem wenn ansteht, nicht weiterweiß und wiederum wartet bis jemand anderes Hilfe braucht.
+Hemmschwelle mancher abzutauchen, Schue nehmen, sonst verfängt man sich in einem Rad
 
 Verantwortung übergen! 
 
