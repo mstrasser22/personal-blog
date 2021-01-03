@@ -1,28 +1,71 @@
-1. Agiles Vorgehen
-Agile Methoden zu verwenden, um effizient Software zu entwickeln, ist mittlerweile in unserer Branche sehr verbreitet. Sich für diese Vorgehensweise zu entscheiden, halte ich auch für sehr schlau.
-Nach über 10 Jahren Scrum stelle ich aber auch folgendes fest:
-Sich "agil" auf die Fahnen zu heften, heißt nicht alles auch korrekt umzusetzen. Zwischen Theorie und Praxis ist ein Unterschied, und darauf acht zu geben, sich selbst bei der Umsetzung nicht anzulügen, ist ein wichtiger Faktor.
-Auch wenn die Umstellung auf agile Softwareentwicklung einmal geglückt ist, heißt das nicht, dass sich nicht auch mal ein "Schlendrian" einschleicht. Obwohl wir schon so lange agile Methoden im Team praktizieren, müssen wir immer wieder unsere Methoden und Prozesse betrachten, radikal ehrlich zu uns sein und uns fragen, ob wir uns nicht selber wo anlügen und schönreden, was eigentlich schon längst verbessert gehört.
-Zu oft eigene Regeln, gewisse Punkte von Scrum einfach weg weil "wir brauchen das nicht"...
-Große Scrumteams, viele POs, keine klaren Aufgaben, zu lange Daily Scrums, fehlende Retrospektiven, zu lange Sprints (Planung), zu große Backlogpunkte, keine Ziele in den Backlogpunkten, fehlende Definition of Done, wechselnde Prioritäten, 
+---
+title: "Ein kritischer Blick auf die Produktivität (2/2)"
+date: 2021-01-03T18:54:21+02:00
+draft: false
 
-2.  Klare Ziele, Klare Anforderungen, Klare Prioritäten
-Da bin ich eigentlich schon bei einem der größten Produktivitätshemmer angekommen:
-ist das Ziel nicht klar, passiert irgendwas, aber nicht das, was am Ende des Tages benötigt wird.
-Um produktiv Kundennutzen zu generieren, muss immer klar sein, was als nächstes zu tun ist!
-Das heißt, Projektziele müssen allen bekannt sein (wo fährt das Schiff hin), die Anforderungen, die dazu führen klar formuliert und das auch noch so priorisiert, sodass eine effiziente Abarbeitung möglich ist.
-Das heißt nicht, dass das gesamte Projekt bis ins Detail durchgeplant sein soll, sonste wäre es keine agile Vorgehensweise sondern ein Wasserfallmodell, aber zu schwammige Anforderungen über einen längeren Zeitraum sind gefährlich für den Projektfortschritt. Das heißt wir müssen nicht den gesamten Weg bis zum Ziel kennen, aber die **nächsten Schritten müssen klar sein**.
+# post thumb
+image: "images/blog/produktivity.jpg"
+
+# meta description
+description: "Ein Blick auf die Produktivität in Software Development Teams (2/2)"
+
+# taxonomies
+categories: 
+  - "Software Development"
+tags:
+  - "Software Development"
+  - "IT-Management"
+
+# post type
+type: "featured"
+---
+
+Im letzten Artikel [ARTIKEL VERLINKEN!] habe ich bereits einen Überblick darüber gegeben, was ich unter *Produktivität* in der Softwareentwicklung verstehe und welche Bereiche meiner Erfahrung nach Einfluss darauf haben können. Hier gebe ich meine Erkenntnisse und Erfahrungen etwas detaillierter wieder.
+
+### 1. Agiles Vorgehen
+Agile Methoden zu verwenden, um effizient Software zu entwickeln, ist mittlerweile in unserer Branche sehr verbreitet. Sich für diese Vorgehensweise zu entscheiden, halte ich auch für sehr schlau. Nach über 10 Jahren Scrum bin ich nach wie vor ein großer Fan davon!
+Was ich aber ebenso beobachte: sich "agil" auf die Fahnen zu heften, heißt nicht notwendigerweise agile Methoden korrekt umzusetzen. Mir sind schon so einige Variationen von "Scrum" untergekommen: 
+"Wir machen jetzt Scrum, wir stellen uns jeden Morgen zusammen und reden miteinander!", "Scrum Master? Brauchen wir nicht!", "Die Retrospekitve ist bei uns nicht wichtig, die lassen wir aus.", "Bei uns ist der Product Owner auch der Scrum Master.", "Bei uns gibt es mehr POs als EntwicklerInnen.". 
+Sich bei der Umsetzung von agilen Vorgehensmodellen nicht selbst anzulügen, ist meines Erachtens nach ein wichtige Faktor, um in den versprochenen Genuss der effizienten und kundenorientierten Softwareentwicklung zu kommen.
+
+Auch wenn die Umstellung auf agile Softwareentwicklung einmal geglückt ist und man vorbildhaft darin ist, heißt das nicht, dass sich nicht auch mal blinde Flecken einschleichen. 
+Nach über 10 Jahre mit Scrum stelle ich gerade wieder fest, wie wichtig es ist, die angewanten Methoden und Prozesse regelmäßig zu betrachten, radikal ehrlich zu sein um festzustellen, ob wir uns etwas schönreden, was eigentlich schon längst verbessert gehört. Ein Blick von Außen durch Externe oder neue MitarbeterInnen tut hier auch sehr gut. 
+Verschläft man das allerdings, kann so manches Auswirkungen auf die *Produktivität* haben. 
+
+#### Abweichungen reflektieren
+Abweichungen vom Bilderbuch-Scrum gehörten begründet und auch in regelmäßigen Abständen reflekitert, ob diese tatsächlich aufgrund der Projektsituation noch notwendig sind.
+Bsp.: ein Projekt erfordert mehr als einen PO. 
+Das ist OK und lebbar, wenn begründbar. Läuft das Ganze aber aus dem Ruder und man hat mehr POs als EntwicklerInnen, entstehen möglicherweise Engpässe, unklare Verantwortlichkeiten, unklare Prioritäten, unterschiedliche Zielsetzungen,... was aber wie in Teil 1!!!!!!!!!LINK!! beschrieben Grundvoraussetzung ist, um produktiv arbeiten zu können. 
+
+#### Größe des Scrum-Teams
+Auch ein Scrum-Team verändert sich mit der Zeit. Irgendwann kann ein Team eine Größe erreichen, wo zu viele Kommunikationslinien entstehen und die Zusammenarbeit inneffizient wird. Was hier eine sinnvolle Größe ist, da sind mir schon verschiedene Angaben untergekommen. Ein Scrum-Team hat 7 (+/- 2) MitarbeiterInnen, maximal 12 Teammitglieder, etc. Hier gilt das Team, die Mitglieder und die Projektstruktur aufmerksam zu beobachten und wenn nötig, neu zu strukturieren.
+
+#### Meetings
+Die vorgegebenen Meetings des Prozess sollten stattfinden aber auch sinnvoll und effizient gestaltet werden. 
+- Saubere und effiziente Planungs-Meetings (z.B. Vorbereitung von Backlogpunkten, Feinplanungen in kleineren Runden bei großen Scrum-Teams)
+- Retrospektiven auch tatsächlich nutzen, um zu lernen und Verbesserungspotenziale zu identifizieren. 
+- Auf die Länge von Daily Scrums achten, aber auch auf die Einhaltung dieser.
+
+#### Klare Projektziele, klare Anforderungen und klare Prioritäten
+Da bin ich bei einem der größten Produktivitätshemmer angekommen:
+Fehlende Klarheit in Bezug auf Ziele, Anforderungen und Prioritäten.
+
+Ist das Ziel nicht klar, passiert irgendwas, aber nicht das, was am Ende des Tages benötigt wird.
+Um produktiv Kundennutzen zu generieren, muss klar sein, wohin das Schiff fährt, also welches **Ziel** erwartet wird.
+Die konkreten Anforderungen definieren **WAS** dazu notwendig ist und die Prioritäten, machen es möglich, diese effizient in der benötigten Reihenfolge abzuarbeiten. Somit muss zu jedem Zeitpunkt klar sein **was als nächstes zu tun ist**!
+
+Das heißt nicht, dass das gesamte Projekt bis ins Detail durchgeplant sein soll, sonste wäre es keine agile Vorgehensweise sondern ein Wasserfallmodell. Zu schwammige Anforderungen über einen längeren Zeitraum sind aber gefährlich für den Projektfortschritt. Das heißt wir müssen nicht den gesamten Weg bis zum Ziel kennen, aber die **nächsten Schritten müssen klar sein**.
+
+Wenn ich das so schreibe, klingt das in der Theorie auch recht schön
+Nun habe ich die Erfahrung gemacht, dass das bei neuen Projekten, neuen Methoden und Technologien gar nicht so einfach ist.
+Das erste mal eine Microservice-Architektur für eine Produktlandschaft zu entwerfen, die ersten Microservices mit Cloud-Komponenten betreiben, die erste Deployment-Pipeline einrichten, etc.
+Da sind die nächsten Schritte nunmal nicht immer soooo klar. In solchen Phasen entstehen nunmal sehr schwammige und grobe Anforderungen in einem Sprint, die eher Fragestellungen gleichen wie "Herausfinden, wie man eine Deployment-Pipeline einrichtet" oder "Microservices schneiden". 
+Sowas lässt sich anfangs nicht vermeiden. Zu so einem Zeitpunkt ist es notwendig, Antworten zu bekommen um herauszufinden, was überhaupt die nächsten Schritte sein müssen, um später den Kundennutzen befriedigen zu können. 
+Hierbei ist aber darauf Acht zu geben, dass diese Phase nur **vorübergehend** besteht und nicht zum Normalzustand wird! Je mehr Fragen bewantwortet werden, desto konkreter sollten Ziele und Anforderungen formuliert werden.
+Was hilft aus dieser Phase herauszukommen, ist sich selbst, POs und EntwicklerInnen bei der Definition von Backlog- und Sprint-Backlogeinträgen immer wieder zu zwingen, so klar wie möglich zu formulieren, warum das benötigt wird und was am Ende rauskommen soll (sei das Ziel auch noch so klein). Das bedarf etwas Übung und funktioniert auch nicht immer gleich. Es ist aber wichtig, daran zu arbeiten. 
 
 
-Das klingt in der Theorie recht schön, nun habe ich die Erfahrung gemacht, dass das bei neuen Projekten, neuen Methoden und Technologien gar nicht so einfach ist.
-Das erste mal eine Microservice-Architektur für eine Produktlandschaft zu entwerfen, die ersten Microservices mit Cloud-Komponenten betreiben, die erste Deployment-Pipeline einrichten,... da sind die nächsten Schritte einfach nicht immer soooo klar. Daraus entstehen sehr schwammige und grobe Anforderungen in einem Sprint, die eher groben Fragestellungen gleichen wie "Herausfinden, wie man eine Deployment-Pipeline einrichtet" oder "Microservices schneiden". 
-Sowas lässt sich anfangs nicht vermeiden. An dieser Stelle ist es notwendig, Antworten zu finden um herauszufinden, was den überhaupt die nächsten Schritte sein müssen, um später Kundennutzen befriedigen zu können. Hierbei ist darauf Acht zu geben, dass diese Phase nur vorübergehend besteht und nicht zum Normalzustand wird. Je mehr Fragen bewantwortet werden, desto konkreter sollten Ziele und Anforderungen formuliert.
-Um aus dieser Phase herauszukommen, habe ich damit angefangen mich selbst, POs und EntwicklerInnen bei jedem Backlog-Punkt zu zwingen, klar zu formulieren, warum das benötigt wird und was am Ende rauskommen soll, sei das Ziel auch noch so klein. Das bedarf etwas Übung, und ich habe an mir selbst festgestellt, dass das nicht immer gleich funktioniert, gerade wenn man sich in einer Phase der Ungewissenheit - wie oben beschrieben - befindet, aber es ist wichtig daran zu arbeiten. 
-
-Sind die Ziele und Anforderunge klar definiert, müssen Prioritäten eingefordert werden! Es gibt nichts, das mehr lähmt, als wenn man so viel Arbeit hat, dass man nicht weiß, was man zuerst machen soll. Und weil nicht klar ist was dringender ist, macht man irgendwie gar nichts... so ist das zumindest mir so. Wenn ich aber weiß, was der nächst wichtigste Punkt ist, kann ich eine klare Reihenfolge bilden, und erhöhe so meinen Durchsatz.
-
-
-#### Verschwendung und Engpässe lokalisieren und bereinigen
+### 2. Verschwendung und Engpässe lokalisieren und bereinigen
 Was Produktivität, egal in welcher Branche, hemmt, sind Verschwendung und Engpässe.
 Unter Verschwendung fällt alles, was keinen Kundennutzen genieriert und eigentlich vermeidbar wäre, z.B. unnötige Bürokratie, unnötige Besprechungen, inneffiziente Planung.
 Engpässe in Softwareentwicklungsteams können ganz unterschiedlicher Natur sein, sie zeichnen sich aber dadurch aus, dass es zu einem Flaschenhals kommt, wo Wartezeiten entstehen.
