@@ -1,10 +1,10 @@
 ---
-title: "Ein kritischer Blick auf die Produktivität (2/2)"
+title: "Ein kritischer Blick auf Produktivität (2/2)"
 date: 2021-01-03T18:54:21+02:00
 draft: false
 
 # post thumb
-image: "images/blog/produktivity.jpg"
+image: "images/blog/productivity_2.jpg"
 
 # meta description
 description: "Einflussfaktoren auf die Produktivität in Software Development Teams - Details (2/2)"
@@ -72,12 +72,7 @@ Was hilft aus dieser Phase herauszukommen, ist sich selbst, POs und EntwicklerIn
 
 
 ### 2. Verschwendung und Engpässe lokalisieren und bereinigen
-Was unter *Verschwednung* und *Engpässen* zu verstehen ist, habe ich schon im ersten Artikel [LINK] erklärt.
-
-TODO noch fertig diesen Abschnitt!
-
-WAS NOCH? AUS DEVOPS BUCH
-DEVOPS BUCH sowie LInk drauf?
+.....
 
 Um Verschwendung und Engpässe aufzudecken, ist Beobachtung gefragt. Ich mache das gerne bei mir selber, dass ich an manchen Tagen bewusst darauf achte, was ich eigentlich so mache und was davon vermeidbar und keinen Nutzen hat (weder für mich persönlich, noch für das Projekt, die Familie, etc.). Wenn das jeder im Team macht, lassen sich sicher einige Tätigkeiten aufdecken, die ersetzt oder optimiert (automatisiert) werden können. Das gleiche gilte für Flaschenhälse - auch hier ist ein Zeitraum der Beobachtung notwendig, um diese zu erkennen, außer es ist sehr sehr offensichtlich.
 
