@@ -6,10 +6,15 @@
     <description>Recent content on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 30 Aug 2020 18:54:21 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.maria-strasser.at/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 28 Feb 2021 18:54:21 +0200</lastBuildDate><atom:link href="https://www.maria-strasser.at/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ein kritischer Blick auf Produktivität</title>
+      <link>https://www.maria-strasser.at/blog/produktivitaet-in-software-development-teams/</link>
+      <pubDate>Sun, 28 Feb 2021 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/blog/produktivitaet-in-software-development-teams/</guid>
+      <description>In den letzten 1,5 Jahren habe ich mich intensiv mit Konzepten, Prozessen und Werkzeugen befasst, die dabei helfen sollen, die Softwareentwicklung zu modernisieren.</description>
+    </item>
     
     <item>
       <title>Testautomatisierung macht doch jeder?</title>

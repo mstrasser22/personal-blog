@@ -6,10 +6,33 @@
     <description>Recent content in Tags on Maria Strasser - Software Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
-    <lastBuildDate>Sun, 30 Aug 2020 18:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 18:54:21 +0200</lastBuildDate><atom:link href="https://www.maria-strasser.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT-Management</title>
+      <link>https://www.maria-strasser.at/tags/it-management/</link>
+      <pubDate>Sun, 28 Feb 2021 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/tags/it-management/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://www.maria-strasser.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Produktivität</title>
+      <link>https://www.maria-strasser.at/tags/produktivit%C3%A4t/</link>
+      <pubDate>Sun, 28 Feb 2021 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/tags/produktivit%C3%A4t/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Software Development</title>
+      <link>https://www.maria-strasser.at/tags/software-development/</link>
+      <pubDate>Sun, 28 Feb 2021 18:54:21 +0200</pubDate>
+      
+      <guid>https://www.maria-strasser.at/tags/software-development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DevOps</title>
